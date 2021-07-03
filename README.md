@@ -1,10 +1,9 @@
-## Table of contents
-* General info
+# MyCalculator
+App which calculates numbers (integers & floating point numbers).
+
+## ℹ️ Table of contents
 * Tech Stack
 * App View
-
-## ℹ️ General info
-App which calculates numbers (integers & floating point numbers).
 
 ## 💻 Tech Stack
 Project is created with:
@@ -12,7 +11,7 @@ Project is created with:
 * Kotlin
 * Android
 
-## App View
+## 📲 App View
 
 ### MainActivity UI
 
